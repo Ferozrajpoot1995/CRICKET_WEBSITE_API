@@ -1,0 +1,11 @@
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\bin\Debug\net8.0\TayyabProject.Application.deps.json
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\bin\Debug\net8.0\TayyabProject.Application.dll
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\bin\Debug\net8.0\TayyabProject.Application.pdb
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\TayyabProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\TayyabProject.Application.AssemblyInfoInputs.cache
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\TayyabProject.Application.AssemblyInfo.cs
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\TayyabProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\TayyabProject.Application.dll
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\refint\TayyabProject.Application.dll
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\TayyabProject.Application.pdb
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Application\obj\Debug\net8.0\ref\TayyabProject.Application.dll

@@ -1,0 +1,14 @@
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\bin\Debug\net8.0\TayyabProject.Infrastructure.deps.json
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\bin\Debug\net8.0\TayyabProject.Infrastructure.runtimeconfig.json
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\bin\Debug\net8.0\TayyabProject.Infrastructure.dll
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\bin\Debug\net8.0\TayyabProject.Infrastructure.pdb
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.AssemblyInfo.cs
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.dll
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\refint\TayyabProject.Infrastructure.dll
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.pdb
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\TayyabProject.Infrastructure.genruntimeconfig.cache
+C:\Users\froze.aftab\Videos\TayyabProject\TayyabProject.Infrastructure\obj\Debug\net8.0\ref\TayyabProject.Infrastructure.dll
